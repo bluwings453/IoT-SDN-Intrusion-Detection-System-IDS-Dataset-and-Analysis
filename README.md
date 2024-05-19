@@ -8,7 +8,7 @@ This repository equips you with a powerful dataset and analysis to safeguard  So
 
 🪐 Source: Simulated SDN-IoT networks (https://www.kaggle.com/datasets/azalhowaide/iot-dataset-for-intrusion-detection-systems-ids)
 Up to 86 Features: Navigate the depths of network traffic behavior
-40 Million Records: A massive dataset for robust analysis
+40 Million Records: A massive dataset for robust analysis 
 ️ Classes:
 Normal Traffic: Keeping things smooth ✅
 16 Attack Types
