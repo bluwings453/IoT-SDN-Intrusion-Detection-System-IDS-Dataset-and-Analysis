@@ -11,7 +11,7 @@ Up to 86 Features: Navigate the depths of network traffic behavior
 40 Million Records: A massive dataset for robust analysis
 ️ Classes:
 Normal Traffic: Keeping things smooth ✅
-16 Attack Types (Details coming soon!): We'll expose those imposters!
+16 Attack Types
 **  Machine Learning to the Rescue  **
 
 Models: We've unleashed the power of various machine learning algorithms:
@@ -20,7 +20,7 @@ K-Nearest Neighbors (KNN)
 Recurrent Neural Network (RNN)
 Decision Tree
 Accuracy: An impressive 99.6% detection rate! (More evaluation details to come)
-‍ Project Scope: A 6th semester mini-project mentored by the awesome Kumar Abshiek Sir. ([Optional] Links to relevant publications or presentations can be added here)
+‍ Project Scope: A 6th semester mini-project.
 **  Let's Get Started!  **
 
 Download: Clone or download this repository to your local machine.
